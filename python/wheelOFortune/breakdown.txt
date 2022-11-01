@@ -1,0 +1,11 @@
+Keenan:
+-wheel
+-catagories
+-player class
+-gussing logic(gussing letters and assigning proper scores)
+-leaderboard
+
+Aiden:
+-selecting the puzzle
+-displaying the puzzle
+-How to play section
